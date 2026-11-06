@@ -1,0 +1,5 @@
+Every operator keeps two books.
+One measures how far its field fails to stay parallel.
+The other measures how far the field fails to flip.
+Together they always add up to the same budget.
+The transport only decides how that budget is shared.
